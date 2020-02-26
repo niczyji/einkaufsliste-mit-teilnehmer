@@ -1,0 +1,11 @@
+# Einkaufsliste
+- Gemuse
+  - [ ] Zucchini
+  - [x] Karoten
+- Obst
+  - [ ] Wassermelone
+  - [x] Kiwi
+- Getreide Produkte
+  - [ ] Mehl
+- Fleich Produkte
+- Milchprodukte

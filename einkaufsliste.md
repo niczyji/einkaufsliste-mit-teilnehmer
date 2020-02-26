@@ -1,11 +1,12 @@
 # Einkaufsliste
 - Gemuse
-  - [ ] Zucchini
-  - [x] Karoten
+  - [ ] Ztomaten
+  - [x] zwiebel
+  - karrotte 
 - Obst
   - [ ] Wassermelone
-  - [x] Kiwi
+  - [x] hafferflochen
 - Getreide Produkte
   - [ ] Mehl
 - Fleich Produkte
-- Milchprodukte
+- gurke  
